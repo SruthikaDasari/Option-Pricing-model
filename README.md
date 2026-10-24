@@ -165,7 +165,7 @@ Built using:
 
 ## 👨‍💻 Author
 
-**HrushiKesh Peddi**
+**Dasari Sruthika Reddy**
 Undergraduate Student
 FinTech & Quant Finance Enthusiast
 
